@@ -84,3 +84,8 @@ li {
   align-items: center;
   color: white;
 }
+
+ul {
+  max-height: 600px;
+}
+
