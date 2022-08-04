@@ -1,0 +1,38 @@
+.overflow {
+  overflow-y: scroll;
+}
+
+.img-height-width {
+  height: 100px;
+  margin-right: 8px;
+}
+
+.p-color1 {
+  color: white;
+}
+.p-color2 {
+  color: #3b82f6;
+}
+
+.merged-flex {
+  display: flex;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}
+
+.img1 {
+  color: white;
+  margin-left: 12px;
+}
+
+.row-space {
+  display: flex;
+  justify-content: space-between;
+}
+
+.pp {
+  margin: 35px;
+}
